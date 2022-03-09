@@ -1,4 +1,4 @@
-# A case study project fort Kamion
+# A case study project for Kamion
 
 ### `npm start`
 
